@@ -19,7 +19,7 @@
 | [Battery](https://www.conrad.se/sv/p/amewi-rc-batteripack-lipo-3-7-v-500-mah-antal-celler-1-softcase-jst-3436344.html) | To power the circuit when wireless | 1 | $8.90 | $8.90 | [Conrad](https://www.conrad.se/sv/p/amewi-rc-batteripack-lipo-3-7-v-500-mah-antal-celler-1-softcase-jst-3436344.html) |
 | [MMC5983MA](https://www.digikey.com/en/products/detail/memsic-inc/MMC5983MA/10452795) | To read the earth's magnetic field | 1 | $3.32 | $3.32 | [Digikey](https://www.digikey.com/en/products/detail/memsic-inc/MMC5983MA/10452795) |
 | **Parts subtotal** | — | — | — | **$28.75** | — |
-| **Tax & shipping** | — | — | — | **$25.23** | — |
-| **Total** | — | — | — | **$53.98** | — |
+| **Tax & shipping** | — | — | — | **$8.23** | — |
+| **Total** | — | — | — | **$36.98** | — |
 
-**$23.98 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$6.98 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
