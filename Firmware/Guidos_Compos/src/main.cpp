@@ -44,8 +44,8 @@ void goToSleep() {
   ADCSRA &= ~(1 << ADEN);
 
   // Allow interrupt on button press
-  GIMSK |= (1 << PCIE);    // Aktivera Pin Change Interrupt
-  PCMSK |= (1 << PCINT3);  // Välj PB3 som avbrottskälla
+  GIMSK |= (1 << PCIE);    // Activate Pin Change Interrupt
+  PCMSK |= (1 << PCINT3);  // Allow button PB3 to be used as interrupt
 
   // Go to deepest sleep mode
   set_sleep_mode(SLEEP_MODE_PWR_DOWN);
