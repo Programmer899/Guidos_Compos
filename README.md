@@ -9,6 +9,8 @@ At some places there are also some capacitors placed out to take in fact of the 
 I have had a few problems along the way, as an example the wiring. I had to redo the entire wiring after noticing that my led lights were rotated incorrectly.
 I have also had a little to much going on during this PCB week on [Half Life](https://halflife.hackclub.com/) meaning that I have not had much time to work on my project.
 Though, in the end I got something to hopefully work.
+### - Firmware:
+[firmware.hex](https://github.com/Programmer899/Guidos_Compos/blob/main/firmware.hex)
 ---
 ## Schematic:
 ![Schematic](Schematic.png)
