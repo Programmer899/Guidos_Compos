@@ -1,6 +1,8 @@
-Voltage Regulator,   $0.13, Transform power from battery 3.7V down to 3.3V
-Attiny45,            $2.90, Main CPU, Central Processing Unit
-Battery charger,     $5.50, To charge the battery
-SK6812-E,            $1.00, To display the compass direction
-Battery 3.7V 500mAh, $8.90, To power the circuit when wireless
-MMC5983MA,           $3.32, To read the earth's magnetic field
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Voltage Regulator 3.3V,1,Electrokit,$0.13,$0.13,https://www.electrokit.com/en/l7833-sot-223-voltage-regulator-3.3v-1a
+Attiny45,1,Electrokit,$2.90,$2.90,https://www.electrokit.com/en/attiny45-20su-so-8-8-bit-mcu-flash-4k
+Battery charger,1,Electrokit,$5.50,$5.50,https://www.electrokit.com/en/tp4056-batteriladdare-lipo-microusb
+SK6812-E,25,Amazon,$0.04,$1.00,https://www.amazon.se/gp/product/B0GGJFR5QX/ref=sw_img_1?smid=A2WIE6SW95T3HY&psc=1
+Battery,1,Conrad,$8.90,$8.90,https://www.conrad.se/sv/p/amewi-rc-batteripack-lipo-3-7-v-500-mah-antal-celler-1-softcase-jst-3436344.html
+MMC5983MA,1,Digikey,$3.32,$3.32,https://www.digikey.com/en/products/detail/memsic-inc/MMC5983MA/10452795
+Estimated total shipping,1,,,$8.23,
