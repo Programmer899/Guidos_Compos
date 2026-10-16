@@ -1,0 +1,6 @@
+Voltage Regulator,   $0.13, Transform power from battery 3.7V down to 3.3V
+Attiny45,            $2.90, Main CPU, Central Processing Unit
+Battery charger,     $5.50, To charge the battery
+SK6812-E,            $1.00, To display the compass direction
+Battery 3.7V 500mAh, $8.90, To power the circuit when wireless
+MMC5983MA,           $3.32, To read the earth's magnetic field
