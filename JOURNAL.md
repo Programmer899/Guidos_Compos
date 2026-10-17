@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-11 – # October 11 - Started work on my "Guidos Compos"](#2026-10-11-october-11---started-work-on-my-guidos-compos)
-2. [2026-10-11 – Work session](#2026-10-11-work-session)
+2. [2026-10-11 – # October 11 - Finished work on my "Guidos Compos" by doing PCB](#2026-10-11-october-11---finished-work-on-my-guidos-compos-by)
 
 ## Design
 
@@ -41,8 +41,25 @@ I then started to work on my schematic. I have done a similar project before but
 
 [Timelapse](https://lookout.hackclub.com/api/media/f280f11a-fcff-4aeb-a586-57de3fffdd48/video.mp4)
 
-### 2026-10-11 – Work session
+### 2026-10-11 – # October 11 - Finished work on my "Guidos Compos" by doing PCB
 
 **3.23h**
+
+# October 11 - Finished work on my "Guidos Compos" by doing PCB
+
+## Header
+About one or two hours after my previous journal I finished the schematic aswell as starting my PCB.
+
+## Schematic
+I finished the schematic by finding the rest information about my leds, voltage regulator aswell as adding my magnetometer. I traced the missing connections and finished it off.
+![Full Schematic](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/3ddd150a11d8ed164ef51f1f10b9ba0b67df8f66078df41add6e20747b97532e.png)
+
+## PCB
+I started on my PCB by importing my schematic into the PCB editor. Then I moved my leds and placed with a small space inbetween aswell as connecting all of the wires for like VCC and data.
+I did found an interresting part about my magnetometer and that is that it does not want to be disturbed by any kind of tiny magnetic disruption making the values incorrect. Therefore I solved it by moved it to the very edge of my PCB so that it would not have any chace of getting inaccurate in such a way.
+![PCB](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/5eb1cfcadf615d6142e57987094c312b2c915f67cbd33bdde6c3c10524d2ef25.png)
+![Rendered](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/b5e39525ae8e43b272bf9fad95afbe62607cb89dd3ca1dc43e6ad5a9fb77eed1.png)
+
+For this tl;dr, I finished my work on the compass.
 
 [Timelapse](https://lookout.hackclub.com/api/media/8fa26220-7799-42f5-901b-c6a30446d191/video.mp4)
