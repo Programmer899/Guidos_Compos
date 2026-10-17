@@ -14,14 +14,30 @@
 
 ## Contents
 
-1. [2026-10-11 – Work session](#2026-10-11-work-session)
+1. [2026-10-11 – # October 11 - Started work on my "Guidos Compos"](#2026-10-11-october-11---started-work-on-my-guidos-compos)
 2. [2026-10-11 – Work session](#2026-10-11-work-session)
 
 ## Design
 
-### 2026-10-11 – Work session
+### 2026-10-11 – # October 11 - Started work on my "Guidos Compos"
 
 **3.13h**
+
+# October 11 - Started work on my "Guidos Compos"
+
+## Header
+Today I started my work on my design for a digital compass.
+I know I should have started my work earlier but had a lot going on.
+So what did I do when I started?
+
+## Work start
+I started my research on the different parts that I needed for my project. I looked at the controller (ATtiny45) aswell as looking at the main part needed, my magnetometer (MMC5983MA).
+
+## Schematic
+I then started to work on my schematic. I have done a similar project before but for a split keyboard (left side). I placed out the leds in a 5x5 matrix, traced the required connections and then connected the ATtiny45.
+
+![Schematic_leds](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/74bc1c4c1a875d0400fd76c92659f9b5b4b919942d9cf1ba50d6722f87d3ae0b.png)
+![Schematic, leds](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/9932a34421fb978c58efe4503fcf89d20e80eff4efff59364785451c08d30f84.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/f280f11a-fcff-4aeb-a586-57de3fffdd48/video.mp4)
 
