@@ -39,6 +39,8 @@ I then started to work on my schematic. I have done a similar project before but
 ![Schematic_leds](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/74bc1c4c1a875d0400fd76c92659f9b5b4b919942d9cf1ba50d6722f87d3ae0b.png)
 ![Schematic, leds](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/9932a34421fb978c58efe4503fcf89d20e80eff4efff59364785451c08d30f84.png)
 
+This tl;dr is as following: I did some research on my needed parts and then started the compass with a schematic.
+
 [Timelapse](https://lookout.hackclub.com/api/media/f280f11a-fcff-4aeb-a586-57de3fffdd48/video.mp4)
 
 ### 2026-10-11 – # October 11 - Finished work on my "Guidos Compos" by doing PCB
