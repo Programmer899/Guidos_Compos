@@ -63,5 +63,6 @@ I did found an interresting part about my magnetometer and that is that it does 
 ![Rendered](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/8iQdaOwcrYZr4ba8jsAlUZx1MLmtyDZ7/b5e39525ae8e43b272bf9fad95afbe62607cb89dd3ca1dc43e6ad5a9fb77eed1.png)
 
 For this tl;dr, I finished my work on the compass.
+I addition I also made a small firmware for the compass but forgot to start the Hackatime counter.
 
 [Timelapse](https://lookout.hackclub.com/api/media/8fa26220-7799-42f5-901b-c6a30446d191/video.mp4)
